@@ -1,6 +1,3 @@
-/**
- * 
- */
 package ru.avalon.java.dev.j110.labs;
 
 /**

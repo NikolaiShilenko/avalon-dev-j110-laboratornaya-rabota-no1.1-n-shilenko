@@ -7,10 +7,8 @@ package ru.avalon.java.dev.j110.labs;
 public class A {
 	
 	public static void main (String[] args) {
-		A a = new A(A.a, A.a);
+		A a = new A(null, null);
 	}
-	
-	private static A a;
 	
 	public A() {
 		System.out.println("A:A()");
